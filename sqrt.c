@@ -17,8 +17,8 @@ int main(int argc, char* argv[]) {
 
 	if(input < 0)
 	{
-		printf("Invalid input. Negative numbers are not allowed\n");
-		exit(-1);
+		printf("Sqrt of %d is %fi\n",input,sqrt(-1*input));
+		return(0);
 	}
 	
 	printf("Sqrt of %d is %f\n",input,sqrt(input));
