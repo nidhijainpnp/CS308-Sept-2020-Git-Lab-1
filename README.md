@@ -1,5 +1,4 @@
-# CS308-Sept-2020-Git-Lab-1
-This is partA.
+# CS308-Sept-2020-Git-Lab-1 .(partA)
 
-## partB
-## https://github.com/khyati18/CS308-Sept-2020-Git-Lab-2-PartB
+## PartB
+### https://github.com/khyati18/CS308-Sept-2020-Git-Lab
